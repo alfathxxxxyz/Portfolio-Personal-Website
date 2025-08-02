@@ -1,0 +1,594 @@
+.frame {
+  position: relative;
+  width: 1920px;
+  height: 5400px;
+  background-color: #ffffff;
+}
+
+.frame .overlap {
+  position: absolute;
+  width: 1921px;
+  height: 640px;
+  top: 0;
+  left: -1px;
+}
+
+.frame .group {
+  position: absolute;
+  width: 1921px;
+  height: 626px;
+  top: 0;
+  left: 0;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 1921px;
+  height: 269px;
+  top: 0;
+  left: 0;
+  background-color: #50bc8a;
+}
+
+.frame .div {
+  position: absolute;
+  width: 1920px;
+  height: 357px;
+  top: 269px;
+  left: 1px;
+  background-color: #222222;
+}
+
+.frame .text-wrapper {
+  width: 1534px;
+  top: 417px;
+  left: 163px;
+  font-size: 32px;
+  letter-spacing: -1.60px;
+  position: absolute;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  line-height: normal;
+}
+
+.frame .group-2 {
+  position: absolute;
+  width: 1273px;
+  height: 190px;
+  top: 79px;
+  left: 1px;
+  background-color: #5056bc;
+}
+
+.frame .text-wrapper-2 {
+  top: 100px;
+  left: 24px;
+  font-size: 128px;
+  letter-spacing: -6.40px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  line-height: normal;
+}
+
+.frame .vector {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 329px;
+  left: 165px;
+}
+
+.frame .img {
+  position: absolute;
+  width: 41px;
+  height: 40px;
+  top: 330px;
+  left: 256px;
+}
+
+.frame .overlap-group {
+  position: absolute;
+  width: 1921px;
+  height: 1141px;
+  top: 1256px;
+  left: -1px;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 1920px;
+  height: 1141px;
+  top: 0;
+  left: 1px;
+  background-color: #222222;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 162px;
+  height: 149px;
+  top: 0;
+  left: 1597px;
+  background-color: #bc50a5;
+}
+
+.frame .rectangle-4 {
+  position: absolute;
+  width: 162px;
+  height: 149px;
+  top: 992px;
+  left: 1759px;
+  background-color: #5056bc;
+}
+
+.frame .rectangle-5 {
+  position: absolute;
+  width: 162px;
+  height: 149px;
+  top: 0;
+  left: 0;
+  background-color: #5056bc;
+}
+
+.frame .rectangle-6 {
+  position: absolute;
+  width: 162px;
+  height: 149px;
+  top: 992px;
+  left: 0;
+  background-color: #bc50a5;
+}
+
+.frame .rectangle-7 {
+  position: absolute;
+  width: 162px;
+  height: 149px;
+  top: 992px;
+  left: 1597px;
+  background-color: #50bc8a;
+}
+
+.frame .rectangle-8 {
+  position: absolute;
+  width: 162px;
+  height: 149px;
+  top: 843px;
+  left: 1759px;
+  background-color: #bc50a5;
+}
+
+.frame .group-3 {
+  position: absolute;
+  width: 1616px;
+  height: 906px;
+  top: 112px;
+  left: 153px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  top: 706px;
+  left: 162px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 90px;
+  letter-spacing: -4.50px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .overlap-2 {
+  position: absolute;
+  width: 1750px;
+  height: 419px;
+  top: 837px;
+  left: 170px;
+}
+
+.frame .overlap-3 {
+  position: absolute;
+  width: 1750px;
+  height: 419px;
+  top: 0;
+  left: 0;
+}
+
+.frame .adobe-photoshop {
+  position: absolute;
+  width: 463px;
+  top: 0;
+  left: 0;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #222222;
+  font-size: 32px;
+  letter-spacing: -1.60px;
+  line-height: 75px;
+}
+
+.frame .rectangle-9 {
+  position: absolute;
+  width: 954px;
+  height: 149px;
+  top: 270px;
+  left: 796px;
+  background-color: #5056bc;
+}
+
+.frame .text-wrapper-4 {
+  position: absolute;
+  top: 289px;
+  left: 831px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: -4.80px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .movie-design {
+  position: absolute;
+  width: 463px;
+  top: 0;
+  left: 426px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #222222;
+  font-size: 32px;
+  letter-spacing: -1.60px;
+  line-height: 75px;
+}
+
+.frame .icon-park-solid-wrapper {
+  position: absolute;
+  width: 127px;
+  height: 127px;
+  top: 281px;
+  left: 1402px;
+}
+
+.frame .icon-park-solid {
+  position: relative;
+  height: 127px;
+}
+
+.frame .group-4 {
+  position: absolute;
+  width: 81px;
+  height: 83px;
+  top: 22px;
+  left: 14px;
+}
+
+.frame .rectangle-10 {
+  position: absolute;
+  width: 162px;
+  height: 149px;
+  top: 270px;
+  left: 1588px;
+  background-color: #50bc8a;
+}
+
+.frame .rectangle-11 {
+  position: absolute;
+  width: 162px;
+  height: 149px;
+  top: 121px;
+  left: 1426px;
+  background-color: #50bc8a;
+}
+
+.frame .overlap-4 {
+  position: absolute;
+  width: 1478px;
+  height: 357px;
+  top: 2517px;
+  left: 474px;
+}
+
+.frame .projects-and-works {
+  position: absolute;
+  width: 751px;
+  top: 0;
+  left: 0;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #222222;
+  font-size: 48px;
+  letter-spacing: -2.40px;
+  line-height: 50px;
+}
+
+.frame .span {
+  letter-spacing: -1.15px;
+}
+
+.frame .text-wrapper-5 {
+  font-size: 32px;
+  letter-spacing: -0.51px;
+}
+
+.frame .blitzq-UIX-mobile {
+  position: absolute;
+  width: 751px;
+  top: 0;
+  left: 727px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #222222;
+  font-size: 48px;
+  letter-spacing: -2.40px;
+  line-height: 50px;
+}
+
+.frame .text-wrapper-6 {
+  position: absolute;
+  top: 706px;
+  left: 588px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 90px;
+  letter-spacing: -4.50px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .overlap-5 {
+  position: absolute;
+  width: 951px;
+  height: 192px;
+  top: 2956px;
+  left: -1px;
+  background-color: #5056bc;
+}
+
+.frame .text-wrapper-7 {
+  position: absolute;
+  top: 40px;
+  left: 194px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: -4.80px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .vector-2 {
+  position: absolute;
+  width: 64px;
+  height: 69px;
+  top: 63px;
+  left: 75px;
+}
+
+.frame .overlap-6 {
+  position: absolute;
+  width: 1920px;
+  height: 169px;
+  top: 5231px;
+  left: 0;
+  background-color: #5056bc;
+}
+
+.frame .text-wrapper-8 {
+  position: absolute;
+  top: 63px;
+  left: 62px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: -1.80px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .p {
+  position: absolute;
+  top: 63px;
+  left: 1329px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: -1.80px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .overlap-7 {
+  position: absolute;
+  width: 1920px;
+  height: 2083px;
+  top: 3148px;
+  left: 0;
+  background-color: #222222;
+}
+
+.frame .frame-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 1045px;
+  top: 0;
+  left: 0;
+}
+
+.frame .group-wrapper {
+  height: 1045px;
+}
+
+.frame .overlap-group-wrapper {
+  position: relative;
+  width: 1607px;
+  height: 786px;
+  top: 118px;
+  left: 193px;
+}
+
+.frame .overlap-group-2 {
+  position: relative;
+  width: 1599px;
+  height: 786px;
+}
+
+.frame .text-wrapper-9 {
+  position: absolute;
+  width: 463px;
+  top: 0;
+  left: 0;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -1.20px;
+  line-height: 50px;
+}
+
+.frame .brokeback-mountain {
+  position: absolute;
+  width: 463px;
+  top: 0;
+  left: 374px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -1.20px;
+  line-height: 50px;
+}
+
+.frame .elvis-eternal {
+  position: absolute;
+  width: 463px;
+  top: 0;
+  left: 695px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -1.20px;
+  line-height: 50px;
+}
+
+.frame .inception-inglorious {
+  position: absolute;
+  width: 463px;
+  top: 0;
+  left: 1136px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -1.20px;
+  line-height: 50px;
+}
+
+.frame .map-of-the-tiny {
+  position: absolute;
+  width: 463px;
+  top: 1125px;
+  left: 193px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -1.20px;
+  line-height: 50px;
+}
+
+.frame .overlap-8 {
+  position: absolute;
+  width: 1136px;
+  height: 786px;
+  top: 1125px;
+  left: 656px;
+}
+
+.frame .sing-streers-society {
+  position: absolute;
+  width: 463px;
+  top: 0;
+  left: 368px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -1.20px;
+  line-height: 50px;
+}
+
+.frame .wicked-you-are-the {
+  position: absolute;
+  width: 463px;
+  top: 0;
+  left: 673px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -1.20px;
+  line-height: 50px;
+}
+
+.frame .rectangle-12 {
+  position: absolute;
+  width: 162px;
+  height: 149px;
+  top: 2397px;
+  left: 161px;
+  background-color: #50bc8a;
+}
+
+.frame .group-5 {
+  position: absolute;
+  width: 971px;
+  height: 192px;
+  top: 2956px;
+  left: 950px;
+}
+
+.frame .rectangle-13 {
+  position: absolute;
+  width: 481px;
+  height: 192px;
+  top: 0;
+  left: 0;
+  background-color: #bc50a5;
+}
+
+.frame .overlap-9 {
+  position: absolute;
+  width: 490px;
+  height: 192px;
+  top: 0;
+  left: 481px;
+}
+
+.frame .rectangle-14 {
+  position: absolute;
+  width: 297px;
+  height: 192px;
+  top: 0;
+  left: 0;
+  background-color: #50bc8a;
+}
+
+.frame .rectangle-15 {
+  position: absolute;
+  width: 194px;
+  height: 192px;
+  top: 0;
+  left: 296px;
+  background-color: #5056bc;
+}
